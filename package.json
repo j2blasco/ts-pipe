@@ -1,6 +1,6 @@
 {
   "name": "@j2blasco/ts-pipe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pipe utils for TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
