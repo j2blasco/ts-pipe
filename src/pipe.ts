@@ -113,7 +113,6 @@ export function pipe<A, B, C, D, E, F, G, H, I, J, K>(
   fn10: (input: J) => K
 ): K;
 
-// Fallback for more steps
 export function pipe(
   value: any,
   ...fns: Array<(arg: any) => any>
