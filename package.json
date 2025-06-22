@@ -1,6 +1,6 @@
 {
   "name": "@j2blasco/ts-pipe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Pipe utils for TypeScript",  "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./types/index.d.ts",  "exports": {
