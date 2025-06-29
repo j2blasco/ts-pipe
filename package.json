@@ -1,8 +1,12 @@
 {
   "name": "@j2blasco/ts-pipe",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Pipe utils for TypeScript",  "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j2blasco/ts-crud"
+  },
   "types": "./types/index.d.ts",  "exports": {
     ".": {
       "types": "./types/index.d.ts",
